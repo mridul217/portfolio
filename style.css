@@ -1,0 +1,98 @@
+.jumbotron {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    height: 110vh;
+    display: flex;
+    margin-bottom: -1rem;
+
+}
+
+#about {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+
+#portfolio {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#experience {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#interests {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#skills {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+#contact {
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+
+.form-control {
+    background-color: rgba(19, 63, 95, 0.33);
+    border: none;
+    color: white;
+}
+
+.footer {
+    color: white;
+    background: url('/images/home.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.card {
+    color: white;
+    background: transparent;
+}
+
+.card-body {
+    min-height: 170px;
+
+}
+
+.card-img-top {
+    height: 250px;
+}
